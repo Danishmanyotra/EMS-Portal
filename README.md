@@ -18,6 +18,7 @@ This project provides role-based dashboards for Admin and Employees, making task
     4. User-friendly interface<br/>
 
   Tech Stack<br/>
+
   1. React.js, Tailwindcss<br/>
   2. Using local storage to storet the data.<br/>
 
@@ -26,4 +27,22 @@ For admin :<br/> Email admin@me.com<br/>
             Password 123<br/>
 For employee: <br/>Email employee1@example.com<br/>
               Password 123
+
+
+Screenshots  
+<table>
+    <tr>
+        <img width="400" height="917" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/14d07084-badf-4029-b05e-fd88e59d602a" />
+    </tr>
+    <tr>
+        <img width="400" height="946" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/de09839d-175d-4368-8d66-1597158be72a" />
+    </tr>
+    <tr>
+        <img width="400" height="800" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/bf155bca-15b7-486b-960a-c066851e7249"/>
+    </tr>
+</table>
+
+
+
+
 
